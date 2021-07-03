@@ -3,7 +3,6 @@ For my project, I have created an restaurant website and menu available in the r
 
 # Features
 Update information using guthub CI/CD  <br>
-host website using firebase
 
 # QR code
 
